@@ -4,11 +4,11 @@
 
 Las listas por comprensión son una construcción sintáctica disponible en Python con la que se pueden crear listas a partir de otros elementos iterables. Siendo una de las contracciones más elegantes del lenguaje. Su funcionalidad es crear listas avanzadas en una misma línea de código.
 
-La forma general de la definición de una lista por comprensión es:\
+La forma general de la definición de una lista por comprensión es:
 
 [**expresion** for **item** in **iterable**]
 
-Opcionalmente, se puede incluir un condicional en la expresión:\
+Opcionalmente, se puede incluir un condicional en la expresión:
 
 [**expresion** for **item** in **iterable** if **condicion**]
 
