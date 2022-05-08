@@ -4,7 +4,7 @@ print(lista)
 
 #ejemplo 2
 lista_anidada = [[ j for j in range(5)] for i in range(3)]
-lista_anidada
+print(lista_anidada)
 
 #ejemplo 3
 results = [n**2 if n < 3 else n for n in range(5)]
